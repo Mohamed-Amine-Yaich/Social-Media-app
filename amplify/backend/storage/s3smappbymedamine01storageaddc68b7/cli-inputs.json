@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3smappbymedamine01storageaddc68b7",
+  "bucketName": "smappbymedamine01-storage-addc68b7",
+  "policyUUID": "4697deb5",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
